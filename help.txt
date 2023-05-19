@@ -1,0 +1,4 @@
+wrapper div needs box-shadow in dark mode, and i cant seem to figure out how to do it.
+make a user signup/ login form, store credentials in a db.
+make the user select genre(max-5, min-2)
+randomise function for any genre with 10 questions, shows repeated questions.
